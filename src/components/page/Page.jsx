@@ -9,7 +9,7 @@ const Page = () => {
   const handleClick = () => {
     setShowMenu(showMenu ? false : true);
   }
-//there is no time left - I made a blank - a drop-down menu, but according to the instructions it is more correct to make the sidebar smoothly increase in size and this is realizable ...
+//there is no time left - I made a blank - a drop-down menu
 
   return (
       <div className='page'>
