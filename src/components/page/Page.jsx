@@ -9,7 +9,7 @@ const Page = () => {
   const handleClick = () => {
     setShowMenu(showMenu ? false : true);
   }
-//т.к. не осталось времени - сделал заготовку - выпадающее меню, но по заданию правильнее сделать чтоб sidebar как плавно увеличивался в размере и это реально реализовать...
+//there is no time left - I made a blank - a drop-down menu, but according to the instructions it is more correct to make the sidebar smoothly increase in size and this is realizable ...
 
   return (
       <div className='page'>
